@@ -3,6 +3,11 @@
 
 This project is a face recognition system built using Python and popular libraries such as Matplotlib, OpenCV (cv2), and the haarcascade_frontalface_default.xml file. The aim of this project is to detect and recognize faces in images or video streams, providing a foundation for various applications like automated attendance systems, security systems, and more.
 
+
+![Screenshot (267)](https://github.com/anandgahlout0508/Machine_Learning_projects/assets/86185807/d7279668-df23-43f6-a04f-e6d81b75a089)
+
+
+
 ## Features
 Face detection in images or video streams
 Face recognition for known individuals (with additional setup)
